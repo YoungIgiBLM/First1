@@ -1,0 +1,21 @@
+GIT notatka
+
+git config --global user.name "Young Igi"
+git config --global user.email "YoungIgiBiznes@gmail.com"
+
+git init
+
+git add .
+
+git commit -m "First vesrion"
+
+git status
+
+git checkout 4a9c439aaf5c41d28bb101420f55fe71a44fa560
+
+plik .gitignore zawiera liste pilkow i folderow ktore nie beda kopiowane
+plik README.mb z opisem projektu
+
+token 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 30dni 12.09.2023
+
+git push -u origin master
